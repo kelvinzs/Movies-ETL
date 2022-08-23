@@ -1,3 +1,5 @@
 config.py
 __pycache__
-rating.csv
+ratings.csv
+movies_metadata.csv
+wikipedia-movies.json
